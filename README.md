@@ -48,7 +48,7 @@ resolution of 512x512.
 **4.1 Terminologies:**
 
 -   **Unique class**: Examples include "dog", "person", etc. In this
-    example, we use "dog".
+    example, we use "cat".
 
 -   **Unique identifier**: A unique identifier that is prepended to the
     unique class while forming the "instance prompts". In this example,
